@@ -48,7 +48,7 @@ claseClose.forEach(function(eClose){
 
 
     setTimeout(function(){
-        location.href = "/";
+        location.href = "/Boletines";
     },1000);
     //setInterval cada cierto tiempo se ejecutan
 
